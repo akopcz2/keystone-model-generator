@@ -1,0 +1,14 @@
+{
+  "name": "keystone-model-generator",
+  "version": "1.0.0",
+  "description": "Keystone Model Generator to automatically generate and name models via cli",
+  "main": "create.js",
+  "scripts": {
+    "create": "node create"
+  },
+  "author": "Adrian Kopczewski",
+  "license": "MIT",
+  "dependencies": {
+    "js-beautify": "^1.8.8"
+  }
+}
